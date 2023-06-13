@@ -198,7 +198,7 @@ Tekst
 </div>
   <div class="card-body">
     <h5 class="card-title">Constructive Alignment</h5>
-    <p class="card-text">Constructive Alignment is een krachtig principe voor onderwijsontwerp. Het helpt bij het ontwerpen van cursussen, leerplannen en het nemen van beslissingen over cursusactiviteiten en materialen. Bovendien kan het worden gebruikt om de relatie tussen de cursusactiviteiten en beoordeling uit te leggen. Dus, op de vraag: "komt dit in het examen?" kun je het antwoord koppelen het cursusprogramma.</p>
+    <p class="card-text">Constructive Alignment is een krachtig principe voor onderwijsontwerp. Het helpt bij het ontwerpen van cursussen, leerplannen en het nemen van beslissingen over cursusactiviteiten en materialen. Bovendien kan het worden gebruikt om de relatie tussen de cursusactiviteiten en beoordeling uit te leggen. Dus op de vraag: "komt dit in het examen?" kun je het antwoord koppelen aan het cursusprogramma.</p>
   </div>
 </div>
 ```
