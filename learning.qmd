@@ -24,7 +24,7 @@ bibliography: bibliography.bib
 >
 > De HAN richt haar onderwijs flexibel in met de beste balans tussen digitale mogelijkheden en fysieke ontmoetingen.
 
-![Kwaliteitsloop DevOps [@atlassian_what_nodate]](devops.png){.m-5 .w-75 onclick="toggleImageSize(\"fig-marketcap\")" title="Click to enlarge" style="cursor: zoom-in;"}
+![Kwaliteitsloop DevOps [@atlassian_what_nodate]](devops.png){#fig-devops .m-5 .w-75 onclick="toggleImageSize(\"fig-devops\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
 ##  - Plan {{< fa route >}}
 
@@ -42,7 +42,7 @@ Text
 </div>
 ```
 
-![Curriculum ontwerpteam [@noauthor_expanding_nodate]](curriculumarchitect.png){.m-5 .w-75 onclick="toggleImageSize(\"fig-marketcap\")" title="Click to enlarge" style="cursor: zoom-in;"}
+![Curriculum ontwerpteam [@noauthor_expanding_nodate]](curriculumarchitect.png){#fig-ca .m-5 .w-75 onclick="toggleImageSize(\"fig-ca\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
 ::: {.callout-tip .my-5}
 ## Auditvragen planfase
@@ -67,7 +67,7 @@ Tekst
   </div>
 </div>
 ```
-![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){#fig-digmat .m-5 .w-75 onclick="toggleImageSize(\"fig-digmat\")" title="Click to enlarge" style="cursor: zoom-in;"}
+![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){#fig-bloom .m-5 .w-75 onclick="toggleImageSize(\"fig-bloom\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
 ::: {.callout-tip .my-5}
 ## Auditvragen bouwfase
@@ -90,7 +90,7 @@ Tekst
   </div>
 </div>
 ```
-![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){.m-5 .w-75 onclick="toggleImageSize(\"fig-digmat\")" title="Click to enlarge" style="cursor: zoom-in;"}
+![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){#fig-test .m-5 .w-75 onclick="toggleImageSize(\"fig-test\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
 ::: {.callout-tip .my-5}
 ## Auditvragen testfase
@@ -113,7 +113,7 @@ Tekst
   </div>
 </div>
 ```
-![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){.m-5 .w-75 onclick="toggleImageSize(\"fig-digmat\")" title="Click to enlarge" style="cursor: zoom-in;"}
+![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){#fig-launch .m-5 .w-75 onclick="toggleImageSize(\"fig-launch\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
 ::: {.callout-tip .my-5}
 ## Auditvragen lanceerfase
@@ -136,7 +136,7 @@ Tekst
   </div>
 </div>
 ```
-![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){.m-5 .w-75 onclick="toggleImageSize(\"fig-digmat\")" title="Click to enlarge" style="cursor: zoom-in;"}
+![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){#fig-operate .m-5 .w-75 onclick="toggleImageSize(\"fig-operate\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
 ::: {.callout-tip .my-5}
 ## Auditvragen uitvoeringfase
@@ -159,7 +159,7 @@ Tekst
   </div>
 </div>
 ```
-![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){.m-5 .w-75 onclick="toggleImageSize(\"fig-digmat\")" title="Click to enlarge" style="cursor: zoom-in;"}
+![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){#fig-observe .m-5 .w-75 onclick="toggleImageSize(\"fig-observe\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
 ::: {.callout-tip .my-5}
 ## Auditvragen observeerfase
@@ -182,7 +182,7 @@ Tekst
   </div>
 </div>
 ```
-![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){.m-5 .w-75 onclick="toggleImageSize(\"fig-digmat\")" title="Click to enlarge" style="cursor: zoom-in;"}
+![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){#fig-evaluate .m-5 .w-75 onclick="toggleImageSize(\"fig-evaluate\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
 ::: {.callout-tip .my-5}
 ## Auditvragen evalueerfase
@@ -201,11 +201,11 @@ Tekst
 </div>
   <div class="card-body">
     <h5 class="card-title">Constructive Alignment</h5>
-    <p class="card-text">Constructive Alignment is een krachtig principe voor onderwijsontwerp. Het helpt bij het ontwerpen van cursussen, leerplannen en het nemen van beslissingen over cursusactiviteiten en materialen. Bovendien kan het worden gebruikt om de relatie tussen de cursusactiviteiten en beoordeling uit te leggen. Dus op de vraag: "komt dit in het examen?" kun je het antwoord koppelen aan het cursusprogramma.</p>
+    <p class="card-text">Constructive Alignment is een krachtig principe voor onderwijsontwerp. Het helpt bij het ontwerpen van cursussen, leerplannen en het nemen van beslissingen over cursusactiviteiten en materialen. Bovendien kan het worden gebruikt om de relatie tussen de cursusactiviteiten en beoordeling uit te leggen. Dus bij de vraag: "komt dit in het examen?" kun je het antwoord koppelen aan het cursusprogramma.</p>
   </div>
 </div>
 ```
-![Constructive Alignment Model [@deibl_constructive_2018]](constructivealignment.jpeg){.m-5 .w-75 onclick="toggleImageSize(\"fig-digmat\")" title="Click to enlarge" style="cursor: zoom-in;"}
+![Constructive Alignment Model [@deibl_constructive_2018]](constructivealignment.jpeg){#fig-innovate .m-5 .w-75 onclick="toggleImageSize(\"fig-innovate\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
 ::: {.callout-tip .my-5}
 ## Auditvragen innoveerfase
