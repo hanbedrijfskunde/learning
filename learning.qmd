@@ -18,7 +18,7 @@ editor: visual
 bibliography: bibliography.bib
 ---
 
-##  - Visie Onderwijskwaliteit{{< fa mountain-sun >}}
+##  - Visie Onderwijs en kwaliteit{{< fa mountain-sun >}}
 
 > *Uit [Koersbeeld HAN 2022-28](https://www.han.nl/over-de-han/missie-en-strategie/koersbeeld/):*
 >
@@ -182,7 +182,7 @@ Tekst
   </div>
 </div>
 ```
-![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){#fig-evaluate .m-5 .w-75 onclick="toggleImageSize(\"fig-evaluate\")" title="Click to enlarge" style="cursor: zoom-in;"}
+![Waardeer het verschil [@noauthor_wwwvan-binnenuitcom_nodate]](normaal.webp){#fig-evaluate .m-5 .w-75 onclick="toggleImageSize(\"fig-evaluate\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
 ::: {.callout-tip .my-5}
 ## Auditvragen evalueerfase
