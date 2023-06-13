@@ -28,7 +28,7 @@ bibliography: bibliography.bib
 
 ##  - Plan {{< fa route >}}
 
-![Curriculum ontwerpteam [@noauthor_expanding_nodate]](curriculumarchitect.png){.m-5 .w-75 onclick="toggleImageSize(\"fig-marketcap\")" title="Click to enlarge" style="cursor: zoom-in;"}
+Text
 
 ```{=html}
 <div class="card m-5 w-75">
@@ -41,6 +41,9 @@ bibliography: bibliography.bib
   </div>
 </div>
 ```
+
+![Curriculum ontwerpteam [@noauthor_expanding_nodate]](curriculumarchitect.png){.m-5 .w-75 onclick="toggleImageSize(\"fig-marketcap\")" title="Click to enlarge" style="cursor: zoom-in;"}
+
 ::: {.callout-tip .my-5}
 ## Auditvragen planfase
 
