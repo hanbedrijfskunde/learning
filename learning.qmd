@@ -202,7 +202,7 @@ Tekst
   </div>
 </div>
 ```
-![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){.m-5 .w-75 onclick="toggleImageSize(\"fig-digmat\")" title="Click to enlarge" style="cursor: zoom-in;"}
+![Constructive Alignment Model [@deibl_constructive_2018]](constructivealignment.jpeg){.m-5 .w-75 onclick="toggleImageSize(\"fig-digmat\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
 ::: {.callout-tip .my-5}
 ## Auditvragen innoveerfase
