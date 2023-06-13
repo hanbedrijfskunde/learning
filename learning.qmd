@@ -18,11 +18,13 @@ editor: visual
 bibliography: bibliography.bib
 ---
 
-##  - Visie Onderwijs en kwaliteit{{< fa mountain-sun >}}
+##  - Visie Onderwijs en Kwaliteit{{< fa mountain-sun >}}
 
 > *Uit [Koersbeeld HAN 2022-28](https://www.han.nl/over-de-han/missie-en-strategie/koersbeeld/):*
 >
 > De HAN richt haar onderwijs flexibel in met de beste balans tussen digitale mogelijkheden en fysieke ontmoetingen.
+
+![Agile education](agile.png){#fig-agile .m-5 .w-75 onclick="toggleImageSize(\"fig-agile\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
 ![Kwaliteitsloop DevOps [@atlassian_what_nodate]](devops.png){#fig-devops .m-5 .w-75 onclick="toggleImageSize(\"fig-devops\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
