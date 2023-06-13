@@ -1,0 +1,216 @@
+---
+title: "Curriculum Architectuur"
+subtitle: "HAN Bedrijfskunde"
+author:
+   - Witek ten Hove
+lang: nl
+date: last-modified
+format:
+  html:
+    toc: true
+    number-sections: true
+    include-in-header:
+      - header.html
+    include-after-body:
+      scripts.html
+title-block-banner: "#e50055"
+editor: visual
+bibliography: bibliography.bib
+---
+
+##  - Visie Onderwijskwaliteit{{< fa mountain-sun >}}
+
+> *Uit [Koersbeeld HAN 2022-28](https://www.han.nl/over-de-han/missie-en-strategie/koersbeeld/):*
+>
+> De HAN richt haar onderwijs flexibel in met de beste balans tussen digitale mogelijkheden en fysieke ontmoetingen.
+
+![Kwaliteitsloop DevOps [@atlassian_what_nodate]](devops.png){.m-5 .w-75 onclick="toggleImageSize(\"fig-marketcap\")" title="Click to enlarge" style="cursor: zoom-in;"}
+
+##  - Plan {{< fa route >}}
+
+![Curriculum ontwerpteam [@noauthor_expanding_nodate]](curriculumarchitect.png){.m-5 .w-75 onclick="toggleImageSize(\"fig-marketcap\")" title="Click to enlarge" style="cursor: zoom-in;"}
+
+```{=html}
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+  <iframe src='https://www.youtube.com/embed/nlEXMHLZ5-E' allowfullscreen frameborder=0></iframe>
+</div>
+  <div class="card-body">
+    <h5 class="card-title">Learning Experiences</h5>
+    <p class="card-text">Learning Experience (LX) speelt een cruciale rol bij het ontwikkelen van boeiende leermaterialen voor het hoger onderwijs. Een goed ontworpen LX bevordert studentenbetrokkenheid, kennisbehoud en personalisatie. Het stimuleert ook samenwerking, sociale interactie en de relevantie van het geleerde voor de echte wereld. Bovendien biedt het waardevolle feedback voor voortdurende verbetering. Een goede LX, is de bevordert effectief leren en stimuleert de groei van studenten.</p>
+  </div>
+</div>
+```
+::: {.callout-tip .my-5}
+## Auditvragen planfase
+
+1.  Hoe is het ontwerpteam ingericht?
+2.  Welke plek heeft LX in het ontwerp?
+3.  ....
+:::
+
+## - Bouw {{< fa shapes >}}
+
+Tekst
+
+```{=html}
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+  <iframe src='https://www.youtube.com/embed/j6vmxgvIT-8' allowfullscreen frameborder=0></iframe>
+</div>
+  <div class="card-body">
+    <h5 class="card-title">Creating Courses</h5>
+    <p class="card-text">Een goed geconstrueerde cursus begint met een course outline. Deze bevat de volgende belangrijke elementen: cursusinformatie, doelen, leerresultaten, cursusinhoud, leeractiviteiten, beoordelingscriteria, leerbronnen, planning en regels. Het helpt docenten en studenten om de cursus duidelijk te begrijpen en te volgen.</p>
+  </div>
+</div>
+```
+![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){#fig-digmat .m-5 .w-75 onclick="toggleImageSize(\"fig-digmat\")" title="Click to enlarge" style="cursor: zoom-in;"}
+
+::: {.callout-tip .my-5}
+## Auditvragen bouwfase
+
+1.  Tekst.
+:::
+
+## - Test {{< fa clipboard-check >}}
+
+Tekst
+
+```{=html}
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+  <iframe src='https://www.youtube.com/embed/j6vmxgvIT-8' allowfullscreen frameborder=0></iframe>
+</div>
+  <div class="card-body">
+    <h5 class="card-title">Creating Courses</h5>
+    <p class="card-text">Een goed geconstrueerde cursus begint met een course outline. Deze bevat de volgende belangrijke elementen: cursusinformatie, doelen, leerresultaten, cursusinhoud, leeractiviteiten, beoordelingscriteria, leerbronnen, planning en regels. Het helpt docenten en studenten om de cursus duidelijk te begrijpen en te volgen.</p>
+  </div>
+</div>
+```
+![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){.m-5 .w-75 onclick="toggleImageSize(\"fig-digmat\")" title="Click to enlarge" style="cursor: zoom-in;"}
+
+::: {.callout-tip .my-5}
+## Auditvragen testfase
+
+1.  Tekst.
+:::
+
+## - Lanceer {{< fa rocket >}}
+
+Tekst
+
+```{=html}
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+  <iframe src='https://www.youtube.com/embed/j6vmxgvIT-8' allowfullscreen frameborder=0></iframe>
+</div>
+  <div class="card-body">
+    <h5 class="card-title">Creating Courses</h5>
+    <p class="card-text">Een goed geconstrueerde cursus begint met een course outline. Deze bevat de volgende belangrijke elementen: cursusinformatie, doelen, leerresultaten, cursusinhoud, leeractiviteiten, beoordelingscriteria, leerbronnen, planning en regels. Het helpt docenten en studenten om de cursus duidelijk te begrijpen en te volgen.</p>
+  </div>
+</div>
+```
+![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){.m-5 .w-75 onclick="toggleImageSize(\"fig-digmat\")" title="Click to enlarge" style="cursor: zoom-in;"}
+
+::: {.callout-tip .my-5}
+## Auditvragen lanceerfase
+
+1.  Tekst.
+:::
+
+## - Uitvoering {{< fa person-running >}}
+
+Tekst
+
+```{=html}
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+  <iframe src='https://www.youtube.com/embed/u_Oz1gUJCtw' allowfullscreen frameborder=0></iframe>
+</div>
+  <div class="card-body">
+    <h5 class="card-title">Engaging Learners</h5>
+    <p class="card-text">Een goed geconstrueerde cursus begint met een course outline. Deze bevat de volgende belangrijke elementen: cursusinformatie, doelen, leerresultaten, cursusinhoud, leeractiviteiten, beoordelingscriteria, leerbronnen, planning en regels. Het helpt docenten en studenten om de cursus duidelijk te begrijpen en te volgen.</p>
+  </div>
+</div>
+```
+![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){.m-5 .w-75 onclick="toggleImageSize(\"fig-digmat\")" title="Click to enlarge" style="cursor: zoom-in;"}
+
+::: {.callout-tip .my-5}
+## Auditvragen uitvoeringfase
+
+1.  Tekst.
+:::
+
+## - Observeer {{< fa eye >}}
+
+Tekst
+
+```{=html}
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+  <iframe src='https://www.youtube.com/embed/kNV6fuYi8sw' allowfullscreen frameborder=0></iframe>
+</div>
+  <div class="card-body">
+    <h5 class="card-title">Tracking Learner Performance</h5>
+    <p class="card-text">Een goed geconstrueerde cursus begint met een course outline. Deze bevat de volgende belangrijke elementen: cursusinformatie, doelen, leerresultaten, cursusinhoud, leeractiviteiten, beoordelingscriteria, leerbronnen, planning en regels. Het helpt docenten en studenten om de cursus duidelijk te begrijpen en te volgen.</p>
+  </div>
+</div>
+```
+![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){.m-5 .w-75 onclick="toggleImageSize(\"fig-digmat\")" title="Click to enlarge" style="cursor: zoom-in;"}
+
+::: {.callout-tip .my-5}
+## Auditvragen observeerfase
+
+1.  Tekst.
+:::
+
+## - Evalueer {{< fa heart >}}
+
+Tekst
+
+```{=html}
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+  <iframe src='https://www.youtube.com/embed/j6vmxgvIT-8' allowfullscreen frameborder=0></iframe>
+</div>
+  <div class="card-body">
+    <h5 class="card-title">Creating Courses</h5>
+    <p class="card-text">Een goed geconstrueerde cursus begint met een course outline. Deze bevat de volgende belangrijke elementen: cursusinformatie, doelen, leerresultaten, cursusinhoud, leeractiviteiten, beoordelingscriteria, leerbronnen, planning en regels. Het helpt docenten en studenten om de cursus duidelijk te begrijpen en te volgen.</p>
+  </div>
+</div>
+```
+![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){.m-5 .w-75 onclick="toggleImageSize(\"fig-digmat\")" title="Click to enlarge" style="cursor: zoom-in;"}
+
+::: {.callout-tip .my-5}
+## Auditvragen evalueerfase
+
+1.  Tekst.
+:::
+
+## - Innoveer {{< fa lightbulb >}}
+
+Tekst
+
+```{=html}
+<div class="card m-5 w-75">
+<div class="ratio ratio-16x9">
+  <iframe src='https://www.youtube.com/embed/j6vmxgvIT-8' allowfullscreen frameborder=0></iframe>
+</div>
+  <div class="card-body">
+    <h5 class="card-title">Creating Courses</h5>
+    <p class="card-text">Een goed geconstrueerde cursus begint met een course outline. Deze bevat de volgende belangrijke elementen: cursusinformatie, doelen, leerresultaten, cursusinhoud, leeractiviteiten, beoordelingscriteria, leerbronnen, planning en regels. Het helpt docenten en studenten om de cursus duidelijk te begrijpen en te volgen.</p>
+  </div>
+</div>
+```
+![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){.m-5 .w-75 onclick="toggleImageSize(\"fig-digmat\")" title="Click to enlarge" style="cursor: zoom-in;"}
+
+::: {.callout-tip .my-5}
+## Auditvragen innoveerfase
+
+1.  Tekst.
+:::
+
+## - Bronnen {{< fa book-open-reader >}}
+
+::: {#refs}
+:::
