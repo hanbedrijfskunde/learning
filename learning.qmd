@@ -18,7 +18,7 @@ editor: visual
 bibliography: bibliography.bib
 ---
 
-##  - Visie Onderwijs en Kwaliteit{{< fa mountain-sun >}}
+## Visie Onderwijs en Kwaliteit{{< fa mountain-sun >}}
 
 > *Uit [Koersbeeld HAN 2022-28](https://www.han.nl/over-de-han/missie-en-strategie/koersbeeld/):*
 >
@@ -28,7 +28,7 @@ bibliography: bibliography.bib
 
 ![Kwaliteitsloop DevOps [@atlassian_what_nodate]](devops.png){#fig-devops .m-5 .w-75 onclick="toggleImageSize(\"fig-devops\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
-##  - Plan {{< fa route >}}
+## Plan {{< fa route >}}
 
 Text
 
@@ -47,14 +47,14 @@ Text
 ![Curriculum ontwerpteam [@noauthor_expanding_nodate]](curriculumarchitect.png){#fig-ca .m-5 .w-75 onclick="toggleImageSize(\"fig-ca\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
 ::: {.callout-tip .my-5}
-## Auditvragen planfase
+### Auditvragen planfase
 
 1.  Hoe is het ontwerpteam ingericht?
 2.  Welke plek heeft LX in het ontwerp?
 3.  ....
 :::
 
-## - Bouw {{< fa shapes >}}
+## Bouw {{< fa shapes >}}
 
 Tekst
 
@@ -72,12 +72,12 @@ Tekst
 ![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){#fig-bloom .m-5 .w-75 onclick="toggleImageSize(\"fig-bloom\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
 ::: {.callout-tip .my-5}
-## Auditvragen bouwfase
+### Auditvragen bouwfase
 
 1.  Tekst.
 :::
 
-## - Test {{< fa clipboard-check >}}
+## Test {{< fa clipboard-check >}}
 
 Tekst
 
@@ -95,12 +95,12 @@ Tekst
 ![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){#fig-test .m-5 .w-75 onclick="toggleImageSize(\"fig-test\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
 ::: {.callout-tip .my-5}
-## Auditvragen testfase
+### Auditvragen testfase
 
 1.  Tekst.
 :::
 
-## - Lanceer {{< fa rocket >}}
+## Lanceer {{< fa rocket >}}
 
 Tekst
 
@@ -118,12 +118,12 @@ Tekst
 ![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){#fig-launch .m-5 .w-75 onclick="toggleImageSize(\"fig-launch\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
 ::: {.callout-tip .my-5}
-## Auditvragen lanceerfase
+### Auditvragen lanceerfase
 
 1.  Tekst.
 :::
 
-## - Uitvoering {{< fa person-running >}}
+## Uitvoering {{< fa person-running >}}
 
 Tekst
 
@@ -141,12 +141,12 @@ Tekst
 ![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){#fig-operate .m-5 .w-75 onclick="toggleImageSize(\"fig-operate\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
 ::: {.callout-tip .my-5}
-## Auditvragen uitvoeringfase
+### Auditvragen uitvoeringfase
 
 1.  Tekst.
 :::
 
-## - Observeer {{< fa eye >}}
+## Observeer {{< fa eye >}}
 
 Tekst
 
@@ -164,12 +164,12 @@ Tekst
 ![Bloom's Revised Taxonomy Model [@noauthor_blooms_nodate]](bloomstaxonomyrevised.webp){#fig-observe .m-5 .w-75 onclick="toggleImageSize(\"fig-observe\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
 ::: {.callout-tip .my-5}
-## Auditvragen observeerfase
+### Auditvragen observeerfase
 
 1.  Tekst.
 :::
 
-## - Evalueer {{< fa heart >}}
+## Evalueer {{< fa heart >}}
 
 Tekst
 
@@ -187,12 +187,12 @@ Tekst
 ![Waardeer het verschil [@noauthor_wwwvan-binnenuitcom_nodate]](normaal.webp){#fig-evaluate .m-5 .w-75 onclick="toggleImageSize(\"fig-evaluate\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
 ::: {.callout-tip .my-5}
-## Auditvragen evalueerfase
+### Auditvragen evalueerfase
 
 1.  Tekst.
 :::
 
-## - Innoveer {{< fa lightbulb >}}
+## Innoveer {{< fa lightbulb >}}
 
 Tekst
 
@@ -210,12 +210,12 @@ Tekst
 ![Constructive Alignment Model [@deibl_constructive_2018]](constructivealignment.jpeg){#fig-innovate .m-5 .w-75 onclick="toggleImageSize(\"fig-innovate\")" title="Click to enlarge" style="cursor: zoom-in;"}
 
 ::: {.callout-tip .my-5}
-## Auditvragen innoveerfase
+### Auditvragen innoveerfase
 
 1.  Tekst.
 :::
 
-## - Bronnen {{< fa book-open-reader >}}
+## Bronnen {{< fa book-open-reader >}}
 
 ::: {#refs}
 :::
